@@ -1,0 +1,17 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "BMI calculator",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ANIRUDH",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
